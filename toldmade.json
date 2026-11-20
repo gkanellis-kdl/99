@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "components": [
+    {
+      "name": "android",
+      "platform": "android",
+      "path": ".",
+      "stack": {
+        "module": ":app",
+        "variant": "debug"
+      }
+    }
+  ]
+}

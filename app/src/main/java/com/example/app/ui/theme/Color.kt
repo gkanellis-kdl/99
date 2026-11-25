@@ -9,7 +9,7 @@ import androidx.compose.ui.graphics.Color
 // (https://material-foundation.github.io/material-theme-builder/) and replace these values.
 
 val LightColorScheme = lightColorScheme(
-    primary = Color(0xFF8A5022),
+    primary = Color(0xFF8B5022),
     onPrimary = Color(0xFFFFFFFF),
     primaryContainer = Color(0xFFFFDCC6),
     onPrimaryContainer = Color(0xFF6D390C),

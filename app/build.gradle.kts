@@ -11,7 +11,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.gkanelliskdl.app99"
+        applicationId = "com.toldmade.clouddeviceowner"
         minSdk = 26
         targetSdk = 37
         versionCode = 1

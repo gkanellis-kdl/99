@@ -1,1 +1,1 @@
-Branch lifecycle live check: close.
+Branch lifecycle live check: close, then continued.
